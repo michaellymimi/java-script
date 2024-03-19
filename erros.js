@@ -1,2 +1,3 @@
-const numero = 1;
-console.log(numero)
+//const numero = 1;
+minhaVar = "oi";
+console.log(minhaVar);
