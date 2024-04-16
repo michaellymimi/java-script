@@ -15,9 +15,7 @@
 
 
 //function nomeIdade(nome, idade) {
-  //return 'meu nome é ${nome} e minha idade é ${idade}';
-//}
-
+  //return 'meu nome é ${nome} e minha idade é ${idadde
 //console.log(nomeIdade(16, "michaelly"))
 
 

@@ -1,4 +1,4 @@
-const nome = "Ju";
+const nome = "mi";
 const idade = 2024-2008
 const cidadeDeNascimento = "Arapongas"
 
